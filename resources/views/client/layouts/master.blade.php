@@ -80,7 +80,7 @@
 
     @include('client.layouts.partials.navigation')
 
-    @include('client.layouts.partials.mobile-bottom-menu')
+    @include('client.layouts.partials.mobile-bottom-menu')s
 
     @include('client.layouts.partials.script')
 
